@@ -7,6 +7,7 @@ Bob wants to find out some relation between features of a mobile phone(eg:- RAM,
 In this data:
 
 id: ID
+
 battery_power: Total energy a battery can store in one time measured in mAh
 blue: Has bluetooth or not
 clock_speed: Speed at which microprocessor executes instructions
