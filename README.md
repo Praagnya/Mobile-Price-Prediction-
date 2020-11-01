@@ -27,3 +27,6 @@ Bob wants to find out some relation between features of a mobile phone(eg:- RAM,
 19) three_g: Has 3G or not
 20) touch_screen: Has touch screen or not
 21) wifi: Has wifi or not
+
+
+This project was done as a part of internship at DataMites. 
